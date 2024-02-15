@@ -6,16 +6,16 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 
-oneflow-skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+oneflow-skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "OneFlow Jekyll Theme"
+title                    : "Homepage Canvas"
 title_separator          : "-"
 subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
-url                      : "https://test123domain123.de"# the base hostname & protocol for your site
+url                      : "https://oneflow-jekyll-theme-example-one.github.io"# the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "perstarke-webdev/oneflow-jekyll-theme" # GitHub username/repo-name
+repository               : "oneflow-jekyll-theme-example-two/oneflow-jekyll-theme-example-two.github.io" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.webp" # Site logo displayed in the masthead
 show-popup               : true # set to false if you don't need / want to show a cookie-banner / cdn-usage popup.
@@ -27,7 +27,7 @@ masthead-opacity         : 0.85 # set to any value between 0 and 1.
                                 # 0.8-0.9 is a good recommended starting point. Only relevant if masthead is sticky.
 background-image         : # '/assets/images/header.webp' # Remove / out-comment, if you don't want a background image
 background-image-mobile  : # '/assets/images/header.webp' # If you want a different (e.g upright) background image for mobile
-background-image-overlay : rgba(255, 255, 255, 0.5) # Set overlay for the background image
+background-image-overlay : # rgba(255, 255, 255, 0.5) # Set overlay for the background image
 
 
 
