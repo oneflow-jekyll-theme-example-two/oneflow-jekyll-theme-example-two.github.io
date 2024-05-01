@@ -20,6 +20,10 @@ Telefon: +49 160 93268817
 e-Mail: per_at_starke-team.de
 <br>
 
+  
+[Website](https://perstarke-webdev.de/)   
+[Blog](https://blog.perstarke-webdev.de/)
+
 
 ## Datenschutzerklärung
 
